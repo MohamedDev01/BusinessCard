@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Carte de visite</string>
+    <string name="Name">BAMBA MOHAMED JUNIOR</string>
+    <string name="role">ÉTUDIANT</string>
+    <string name="number">+225 07 67 33 45 27</string>
+    <string name="mail">BAMBA@MOHAMED.COM</string>
+    <string name="insta">MOJUNIOR.ETH</string>
+</resources>
